@@ -1,4 +1,4 @@
-Project Sunshine V2
+Project Sunshine
 ========
 
-This Project Sunshine V2 from Udacity Course Lesson 1 - 2.
+Project Sunshine Udacity Course Lesson 1 - 2.
